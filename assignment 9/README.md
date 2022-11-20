@@ -24,6 +24,10 @@ Added Validation for Name, email and password.
 The bcrypt npm package is one of the most used packages to work with passwords in JavaScript.
 This is security 101, but it’s worth mentioning for new developers: you never store a password in plain text in the database or in any other place. You just don’t.
 
+
+# How the Frontend Server is Created
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
